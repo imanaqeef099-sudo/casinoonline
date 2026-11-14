@@ -1,0 +1,4 @@
+const CONFIG = {
+    BOT_TOKEN: "8765271074:AAGfADr9_eAMx1pEYJjwsvC1a9XvSxwvOjI",
+    CHAT_ID: "8472663078"
+};
